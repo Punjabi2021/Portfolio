@@ -1,0 +1,21 @@
+ul {
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 2rem;
+
+}
+ul li {
+    list-style-type: none;
+    font-size: 1.5rem;
+    display: inline-block;
+    margin-right: 2rem;
+
+}
+ ul li a {
+     text-decoration: none;
+     color: #232320;
+ }
+
+ ul li a:hover {
+     color: #ffc4ff;
+ }

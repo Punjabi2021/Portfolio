@@ -1,3 +1,25 @@
 h1 {
     color: #232320;
+    text-align: left;
+}
+p {
+    font-size: 1.5rem;
+    text-align: left;
+
+}
+.PavanPhoto {
+    width: 50%;
+}
+.PavanPhoto img {
+    width: 80%;
+}
+.AboutText {
+    width: 50%;
+    margin-left: auto;
+    margin-right: 2rem;
+}
+.AboutContainer {
+width: 100%;
+display: flex;
+justify-content: space-evenly;
 }
