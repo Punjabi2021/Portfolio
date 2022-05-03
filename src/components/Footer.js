@@ -3,7 +3,7 @@ import './Footer.css'
 export default function Footer() {
   return (
     <div className="footer">
-      <h4>Copy Right &copy; 2022 Pavan</h4>
+      <h4>Copyright &copy; 2022 Pavan</h4>
     </div>
   );
 }
