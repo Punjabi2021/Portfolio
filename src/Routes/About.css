@@ -9,6 +9,7 @@ p {
 }
 .PavanPhoto {
     width: 50%;
+    margin-bottom: 20%;
 }
 .PavanPhoto img {
     width: 80%;
@@ -17,9 +18,11 @@ p {
     width: 50%;
     margin-left: auto;
     margin-right: 2rem;
+    margin-bottom: 60%;
 }
 .AboutContainer {
 width: 100%;
 display: flex;
 justify-content: space-evenly;
+margin-bottom: 20%;
 }

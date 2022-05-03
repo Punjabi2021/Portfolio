@@ -1,0 +1,13 @@
+.ProjectPage {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  margin: 0 auto;
+}
+.ProjectPage img {
+  width: 95%;
+}
+.ProjectPage a {
+  width: 100%;
+  text-decoration: none;
+}

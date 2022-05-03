@@ -5,8 +5,6 @@ export default function Navbar() {
   return (
     <div>
       <ul>
-      <div className="NavbarContainer">
-      <div className="Computer">
         <li>
           <Link to="/">Home</Link>
         </li>
@@ -19,9 +17,7 @@ export default function Navbar() {
         <li>
           <Link to="/Contact">Contact</Link>
         </li>
-      </div>
-    </div>
-    </ul>
+      </ul>
     </div>
   );
 }
