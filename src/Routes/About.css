@@ -1,28 +1,30 @@
 h1 {
-    color: #232320;
-    text-align: left;
+  color: #232320;
+  text-align: left;
 }
 p {
-    font-size: 1.5rem;
-    text-align: left;
-
+  font-size: 1.5rem;
+  text-align: left;
 }
+
 .PavanPhoto {
-    width: 50%;
-    margin-bottom: 20%;
+  width: 50%;
+  margin-bottom: 0%;
 }
 .PavanPhoto img {
-    width: 80%;
+  width: 85%;
+  padding: 0;
 }
 .AboutText {
-    width: 50%;
-    margin-left: auto;
-    margin-right: 2rem;
-    margin-bottom: 60%;
+  width: 50%;
+  align-items: center;
+  margin-left: auto;
+  margin-right: 2rem;
+  justify-content: left;
 }
 .AboutContainer {
-width: 100%;
-display: flex;
-justify-content: space-evenly;
-margin-bottom: 20%;
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 0rem;
 }
