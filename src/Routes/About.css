@@ -17,7 +17,9 @@ p {
 }
 .AboutText {
   width: 50%;
-  align-items: center;
+  display:cent;
+  align-items: flex-end;
+justify-content: center;
   margin-left: auto;
   margin-right: 2rem;
   justify-content: left;
